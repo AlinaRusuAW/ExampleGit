@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Hello world Git!");
         String name = "Alina";
         System.out.println("Salut" + name);
+
     }
 }
